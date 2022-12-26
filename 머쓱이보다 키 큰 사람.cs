@@ -7,9 +7,9 @@
 1 ≤ array의 원소 ≤ 200
 
 입출력 예
-array	                       height	result
+array	               height	result
 [149, 180, 192, 170]	167	      3
-[180, 120, 140]	             190	      0
+[180, 120, 140]	        190	      0
 
 
 
